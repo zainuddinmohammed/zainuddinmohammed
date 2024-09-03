@@ -15,6 +15,9 @@
 - Java
 - C++
 - Python
+- HTML
+- CSS
+- JavaScript
 
 ## ✉️ Contact
 **Email: zainuddin.mohammed235@gmail.com**
