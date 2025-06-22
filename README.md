@@ -100,3 +100,4 @@ Feel free to check out my work, star a project, or reach out to chat.
 
 > — Zainuddin Mohammed
 
+![The Scooter in Question](https://i.imgur.com/CT8sDui.gif)
