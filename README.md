@@ -48,9 +48,6 @@ A Python-based tool to visualize vectors, surfaces, parametric curves, and even 
 🧬 **ScooterGenetics**  
 A lightweight sequence comparison and tree-visualization toolkit using Biopython and ete3.
 
-📡 **ESP32 Depth Float**  
-Logs water depth with a sensor, runs a PID loop to stabilize, and uploads data wirelessly.
-
 ---
 
 ## 🤖 Machine Learning Journey
